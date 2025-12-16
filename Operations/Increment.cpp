@@ -13,6 +13,6 @@ int main(){
 	
 	//Decrement
 	cout<<i<<endl;
-	cout<<i++<<endl;
-	cout<<++i<<endl;
+	cout<<i--<<endl;
+	cout<<--i<<endl;
 }
