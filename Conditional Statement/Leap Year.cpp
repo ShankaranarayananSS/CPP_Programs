@@ -4,7 +4,7 @@ int main(){
 	int year;
 	cout<<"Enter any year:";
 	cin>>year;
-	if(year%2==0){
+	if(year%4==0){
 		cout<<year<<" is Leap year!";
 	}
 	else{
