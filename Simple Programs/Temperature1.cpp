@@ -5,7 +5,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-  float f,c;
+  float c;
   cout<<"Enter Celsius:";
   cin>>c;
   printf("Fahrenheit = %.2f",(c*9/5)+32);
