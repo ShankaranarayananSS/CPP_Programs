@@ -8,7 +8,7 @@ int main(){
 	cin>>p;
 	cout<<"Enter No. of Years:";
 	cin>>n;
-	cout<<"Enter Principal amount:";
+	cout<<"Enter Rate of Interest:";
 	cin>>r;
 	cout<<"Simple Interest: "<<p*n*r/100;
 }
