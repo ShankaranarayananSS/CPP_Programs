@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
+
 int main(){
-	int m1,m2,m3,m4,m5,total;
-	float avg;
+	float m1,m2,m3,m4,m5,total,avg;
 	cout<<"Enter mark-1:";
 	cin>>m1;
 	cout<<"Enter mark-2:";
