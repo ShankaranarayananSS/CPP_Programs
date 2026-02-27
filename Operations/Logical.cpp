@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-  
   int t=1, f=0;
   cout<<"Truth Tables:"<<endl;
   
@@ -20,4 +19,5 @@ int main(){
   cout<<"\nNOT OPERATOR:"<<endl;
   cout<<"!"<<t<<" = "<<(!t)<<endl;
   cout<<"!"<<f<<" = "<<(!f)<<endl;
+  return 0;
 }
