@@ -8,5 +8,7 @@ int main(){
 	cin>>b;
 	cout<<"Enter Height of Triangle:";
 	cin>>h;
+	
 	cout<<"Area of Triangle:"<<b*h/2;
+	return 0;
 }
