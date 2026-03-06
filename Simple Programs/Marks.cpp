@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int main(){
 	float m1,m2,m3,m4,m5,total,avg;
 	cout<<"Enter mark-1:";
@@ -13,8 +12,10 @@ int main(){
 	cin>>m4;
 	cout<<"Enter mark-5:";
 	cin>>m5;
+	
 	total = m1+m2+m3+m4+m5;
 	avg = total/5;
 	cout<<"\nTotal Marks: "<<total;
 	cout<<"\nAverage Marks: "<<avg;
+	return 0;
 }
