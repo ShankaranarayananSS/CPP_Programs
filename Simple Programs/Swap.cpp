@@ -17,4 +17,5 @@ int main() {
   
   cout<<"\n\nNumbers After Swapping:";
   cout<<"\nNumber 1 = "<<n1<<"\nNumber 2 = "<<n2;
+  return 0;
 }
