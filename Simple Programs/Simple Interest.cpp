@@ -10,5 +10,7 @@ int main(){
 	cin>>n;
 	cout<<"Enter Rate of Interest:";
 	cin>>r;
+	
 	cout<<"Simple Interest: "<<p*n*r/100;
+	return 0;
 }
