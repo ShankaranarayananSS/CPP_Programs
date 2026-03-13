@@ -8,5 +8,7 @@ int main(){
   float f;
   cout<<"Enter Fahrenheit:";
   cin>>f;
+  
   printf("Celsius = %.2f",(f-32)*5/9);
+  return 0;
 }
