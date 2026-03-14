@@ -8,5 +8,7 @@ int main(){
   float c;
   cout<<"Enter Celsius:";
   cin>>c;
+  
   printf("Kelvin = %.2f",c+273.15);
+  return 0;
 }
