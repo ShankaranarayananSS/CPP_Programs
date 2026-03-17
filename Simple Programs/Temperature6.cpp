@@ -4,10 +4,11 @@
 
 #include<iostream>
 using namespace std;
-
 int main(){
   float f;
   cout<<"Enter Fahrenheit:";
   cin>>f;
+  
   printf("Kelvin = %.2f",(f-32)*5/9+273.15);
+  return 0;
 }
