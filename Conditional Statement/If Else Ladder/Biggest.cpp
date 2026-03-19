@@ -4,6 +4,7 @@ int main(){
 	int num1,num2;
 	cout<<"Enter two numbers:";
 	cin>>num1>>num2;
+	
 	if(num1>num2){
 		cout<<num1<<" is bigger than "<<num2;
 	}
@@ -13,4 +14,5 @@ int main(){
 	else{
 		cout<<"Both number are Equal!";
 	}
+	return 0;
 }
