@@ -4,10 +4,12 @@ int main(){
   float percent;
   cout<<"Enter your percentage:";
   cin>>percent;
+  
   if(percent>=40){
     cout<<"Pass!";
   }
   else{
     cout<<"Fail!";
   }
+  return 0;
 }
