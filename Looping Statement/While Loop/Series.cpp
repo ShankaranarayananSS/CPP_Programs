@@ -6,7 +6,6 @@
 using namespace std;
 int main(){
   int n,i;
-  
   cout<<"Enter any number:";
   cin>>n;
   
@@ -25,4 +24,5 @@ int main(){
     cout<<i<<endl;
     i--;
   }
+  return 0;
 }
