@@ -6,7 +6,6 @@
 using namespace std;
 int main(){
   int n,i;
-  
   cout<<"Enter any number:";
   cin>>n;
   
@@ -27,4 +26,5 @@ int main(){
     i--;
   }
   while(i>=1);
+  return 0;
 }
