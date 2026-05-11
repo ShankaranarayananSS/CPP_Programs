@@ -7,7 +7,7 @@ int main(){
   cout<<"Enter no. of shift:";
   cin>>shift;
   
-  cout<<"Bit L Shift = "<<(num<<shift)<<endl;
-  cout<<"Bit R Shift = "<<(num>>shift)<<endl;
+  cout<<endl<<"Bit L Shift = "<<(num<<shift);
+  cout<<endl<<"Bit R Shift = "<<(num>>shift);
   return 0;
 }
