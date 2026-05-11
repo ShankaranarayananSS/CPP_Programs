@@ -7,10 +7,10 @@ int main(){
   cout<<"Enter number-2:";
   cin>>n2;
   
-  cout<<n1<<" & "<<n2<<" = "<<(n1&n2)<<endl;
-  cout<<n1<<" | "<<n2<<" = "<<(n1|n2)<<endl;
-  cout<<n1<<" ^ "<<n2<<" = "<<(n1^n2)<<endl;
-  cout<<"~"<<n1<<" = "<<(~n1)<<endl;
-  cout<<"~"<<n2<<" = "<<(~n2)<<endl;
+  cout<<endl<<n1<<" & "<<n2<<" = "<<(n1&n2);
+  cout<<endl<<n1<<" | "<<n2<<" = "<<(n1|n2);
+  cout<<endl<<n1<<" ^ "<<n2<<" = "<<(n1^n2);
+  cout<<endl<<"~"<<n1<<" = "<<(~n1);
+  cout<<endl<<"~"<<n2<<" = "<<(~n2);
   return 0;
 }
