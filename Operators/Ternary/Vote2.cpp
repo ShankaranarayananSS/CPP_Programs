@@ -7,6 +7,6 @@ int main(){
   cout<<"Enter age:";
   cin>>age;
   
-  (age<18)?cout<<"Eligible":cout<<"Not eligible";
+  (age<18)?cout<<"Not eligible":cout<<"Eligible";
   return 0;
 }
