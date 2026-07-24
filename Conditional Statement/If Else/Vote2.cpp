@@ -6,6 +6,7 @@ int main(){
   int age;
   cout<<"Enter age:";
   cin>>age;
+  
   if(age<18){
     cout<<"Not eligible";
   }else{
