@@ -14,7 +14,7 @@ int main(){
       cout<<k<<"\t";
       k++;
     }
-    printf("\n");
+    cout<<endl;
   }
   return 0;
 }
