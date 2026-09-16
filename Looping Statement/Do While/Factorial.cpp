@@ -1,4 +1,4 @@
-//Factorial of N Number
+//Factorial of N Numbers
 
 #include<iostream>
 using namespace std;
