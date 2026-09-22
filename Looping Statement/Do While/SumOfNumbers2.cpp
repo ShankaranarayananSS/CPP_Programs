@@ -12,6 +12,6 @@ int main(){
     i = i + 2;
   }
   while(i<=n);
-  cout<<"Sum of Odd N numbers = "<<add;
+  cout<<"Sum of N Odd numbers = "<<add;
   return 0;
 }
