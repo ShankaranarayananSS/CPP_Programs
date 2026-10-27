@@ -5,7 +5,7 @@ int main(){
   cout<<"Enter age:";
   cin>>age;
   
-  if(age<=0){
+  if(age<0){
     cout<<"Invalid Age!";
   }else if(age>=80){
     cout<<"Old Age";
